@@ -1,11 +1,11 @@
-# panasonic-cf-19-linux
+# Panasonic Toughbook CF-19
 
-For Ubuntu 15.10 on Panasonic Toughbook CF-19, improve the following functionality:
-- touch screen calibration and long-press - right-click functionality
-- tablet-buttons driver (on-screen keyboard, enter, screen-rotation, lock buttons)
-- screen rotation script, which rotates touch-screen also with the desktop
-- on-screen keyboard toggle script (for onboard app)
+For Linux on Panasonic Toughbook CF-19, improve the following functionality:
+- Touch screen calibration and long-press - right-click functionality
+- Tablet button driver (on-screen keyboard, enter, screen-rotation, lock buttons)
+- Screen rotation script, which rotates touch-screen also with the desktop
+- On-screen keyboard toggle script (for _xvkbd_)
 
-Descriptions in appropriate directories and files.
+For usage instruction, see README in `/usr/local/bin` and `/usr/local/src/panasonic-hbtn`.
 
-Tested and working on a Panasonic Toughbook CF-19 MK2.
+Tested and working on a Panasonic Toughbook CF-19 Mk3.
